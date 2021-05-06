@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Junior Web Developer 
 </br>
 
-## :man: About me
+## :neckbeard: About me
 
 <a href="https://https://www.linkedin.com/in/łukasz-sobel/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" height="20" alt="LinkedIn" style="width:20px;height:20px"> LinkedIn</a>
 <a href="mailto:lukasz.sobel@hotmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail" height="20" style="width:20px;height:20px"> E-Mail</a>
