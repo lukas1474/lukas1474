@@ -5,7 +5,7 @@
 
 ## :man: About me
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/888/888034.svg?token=exp=1620299165~hmac=e9affa0ec7c524641904c61f09d5ebce">
+<img src="https://www.flaticon.com/svg/vstatic/svg/888/888034.svg?token=exp=1620299165~hmac=e9affa0ec7c524641904c61f09d5ebce" alt="CV" height="20" style="width:20px;height:20px">
 <a href="https://https://www.linkedin.com/in/łukasz-sobel/"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/linkedin.svg" height="20" alt="LinkedIn" style="width:20px;height:20px"> LinkedIn</a>
 </br>
 <a href="mailto:lukasz.sobel@hotmail.com"><img src="https://github.com/tombryan/social-icon-font/blob/master/svg/email.svg" alt="Mail" height="20" style="width:20px;height:20px"> E-Mail</a>
