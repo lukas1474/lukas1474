@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Junior Web Developer 
+<img src="https://user-images.githubusercontent.com/21227322/31187159-01c8d592-a8ff-11e7-9386-af708a7ae9de.png" height="20" alt="React Icon">  Freelancer Web Developer 
 </br>
 
 ## :man: About me
